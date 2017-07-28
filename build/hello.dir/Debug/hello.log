@@ -1,0 +1,5 @@
+﻿  Building Custom Rule E:/myproject/Test For My CMake Demo/CMakeLists.txt
+  CMake does not need to re-run because E:/myproject/Test For My CMake Demo/build/CMakeFiles/generate.stamp is up-to-date.
+  hello.cpp
+  hello.vcxproj -> E:\myproject\Test For My CMake Demo\build\Debug\hello.exe
+  hello.vcxproj -> E:/myproject/Test For My CMake Demo/build/Debug/hello.pdb (Full PDB)
